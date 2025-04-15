@@ -1,0 +1,3 @@
+Melakukan stash
+Melakukan checkout
+tes sekali lagi
